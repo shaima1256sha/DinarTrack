@@ -1,9 +1,9 @@
 
 
-const expense = () => {
+const Expense = () => {
   return (
-    <div>expense</div>
+    <div>Expense</div>
   )
 }
 
-export default expense
+export default Expense
